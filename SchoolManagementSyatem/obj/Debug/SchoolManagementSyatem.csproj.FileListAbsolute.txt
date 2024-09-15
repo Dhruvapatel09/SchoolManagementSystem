@@ -1,0 +1,179 @@
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\SchoolManagementSyatem.dll.config
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\SchoolManagementSyatem.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\SchoolManagementSyatem.pdb
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolMa.3E11CE6E.Up2Date
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.dll
+C:\Users\Admin\Desktop\GCET\SEM 8\SchoolManagementSystem\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.pdb
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\SchoolManagementSyatem.dll.config
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\SchoolManagementSyatem.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\SchoolManagementSyatem.pdb
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolMa.3E11CE6E.Up2Date
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\obj\Debug\SchoolManagementSyatem.pdb
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\mongocrypt.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\AWSSDK.Core.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\AWSSDK.SecurityToken.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\DnsClient.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\SharpCompress.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Snappier.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Buffers.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Memory.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\ZstdSharp.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\AWSSDK.Core.pdb
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\AWSSDK.Core.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\AWSSDK.SecurityToken.pdb
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\AWSSDK.SecurityToken.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\DnsClient.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MongoDB.Bson.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MongoDB.Driver.Core.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Snappier.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Buffers.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Memory.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\itextsharp.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\itextsharp.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Google.Protobuf.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MySql.Data.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MySqlConnector.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\Google.Protobuf.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MySql.Data.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\MySqlConnector.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\SchoolManagementSyatem\SchoolManagementSyatem\bin\System.IO.Pipelines.xml
